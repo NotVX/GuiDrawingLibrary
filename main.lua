@@ -176,3 +176,5 @@ function GuiModule.new(gui_name, gui_size, keybind, font)
 
     return gui
 end
+
+return GuiModule
